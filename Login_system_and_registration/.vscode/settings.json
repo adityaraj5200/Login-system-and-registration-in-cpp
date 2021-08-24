@@ -1,0 +1,6 @@
+{
+    "problems.showCurrentInStatus": true,
+    "files.associations": {
+        "iosfwd": "cpp"
+    }
+}
